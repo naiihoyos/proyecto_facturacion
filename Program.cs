@@ -16,7 +16,7 @@ namespace PROYECTO_POS_NHZ
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1_inicio());
+            Application.Run(new Form1_logins_ini());
         }
     }
 }
